@@ -1,0 +1,1 @@
+INSERT INTO Books VALUES ('vipin','viggy','vvv','asd','c','asd');
